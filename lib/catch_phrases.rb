@@ -1,5 +1,5 @@
 def mario
-when "puts out 'It's-a me, Mario!'" do
+  when "puts out 'It's-a me, Mario!'" do
 end
 
 def toadstool
